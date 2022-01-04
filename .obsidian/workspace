@@ -7,24 +7,16 @@
         "id": "b155fd6a04437631",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "年度总结/2021年度总结.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
         "id": "e1fd3f3d0fc94ca1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "年度总结/2019年度总结.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -81,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "年度总结/2021年度总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +92,9 @@
   },
   "active": "b155fd6a04437631",
   "lastOpenFiles": [
-    "年度总结/2021年度总结.md",
     "年度总结/2020年度计划.md",
     "年度总结/2019年度总结.md",
+    "年度总结/2021年度总结.md",
     "年度总结/2018年度总结.md",
     "随心记/mac下卸载Node.js并使用nvm来管理Node版本.md"
   ]
