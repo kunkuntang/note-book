@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "88385d8c57f961e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b155fd6a04437631",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "年度总结/2021年度总结.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e1fd3f3d0fc94ca1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "年度总结/2019年度总结.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a68661ad9430bb2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e130a9915096a74a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab23eb0651d9efeb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "87c1e89eccd856cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5047c68b4babe7f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c404ba5440bca2f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31c086962dc137c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "年度总结/2021年度总结.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b155fd6a04437631",
+  "lastOpenFiles": [
+    "年度总结/2021年度总结.md",
+    "年度总结/2020年度计划.md",
+    "年度总结/2019年度总结.md",
+    "年度总结/2018年度总结.md",
+    "随心记/mac下卸载Node.js并使用nvm来管理Node版本.md"
+  ]
+}
