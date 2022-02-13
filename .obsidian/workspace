@@ -7,16 +7,12 @@
         "id": "b155fd6a04437631",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "e1fd3f3d0fc94ca1",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "博客文章/读书笔记/程序员的思维修炼—开发认知潜能的九堂课.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "博客文章/读书笔记/程序员的思维修炼—开发认知潜能的九堂课.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +89,7 @@
   },
   "active": "b155fd6a04437631",
   "lastOpenFiles": [
+    "博客文章/读书笔记/程序员的思维修炼—开发认知潜能的九堂课.md",
     "年度总结/2020年度计划.md",
     "年度总结/2019年度总结.md",
     "年度总结/2021年度总结.md",
